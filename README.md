@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Fernando Rosado, I'm for Spain and I work on Continuous delivery works. 
+
+* No active projects right now. 
+* Founder of News Web page about videogames [Consoleros](https://www.consoleros.es)
+
+## Skills 
+* Build systems and IT 
+* QA 
+* Java / Python / Javascript / _Bash_ developer
+
 
 <!--
 **FROSADO/frosado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
