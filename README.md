@@ -9,6 +9,16 @@ My name is Fernando Rosado, I'm for Spain and I work on Continuous delivery work
 * Kubernetes, Docker
 * Jenkins
 * Linux (CentOS / Ubuntu)
+
+As developer: 
+* Java / Groovy
+* Python
+* Javascript
+* C++
+* C#
+* ASP (the old one)
+
+
  
 ## I'm currently learning 
 * 🎮 Personal passion about videogames 🎮, learning Godot Engine as hobby
